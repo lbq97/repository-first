@@ -1,0 +1,62 @@
+2021-04-01 14:55:12 - test_login.py[line:41]- INFO - 启动app
+2021-04-01 14:55:12 - remote_connection.py[line:116]- INFO - Could not connect to port 4723 on host localhost
+2021-04-01 14:55:12 - remote_connection.py[line:135]- INFO - Could not get IP address for host: localhost
+2021-04-01 14:55:12 - connectionpool.py[line:780]- WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd60b377e80>: Failed to establish a new connection: [Errno 61] Connection refused')': /wd/hub/session
+2021-04-01 14:55:12 - connectionpool.py[line:780]- WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd60b3994c0>: Failed to establish a new connection: [Errno 61] Connection refused')': /wd/hub/session
+2021-04-01 14:55:12 - connectionpool.py[line:780]- WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd60b399550>: Failed to establish a new connection: [Errno 61] Connection refused')': /wd/hub/session
+2021-04-01 14:56:54 - test_login.py[line:41]- INFO - 启动app
+2021-04-01 15:37:18 - test_login.py[line:41]- INFO - 启动app
+2021-04-01 15:50:54 - test_login.py[line:41]- INFO - 启动app
+2021-04-01 15:51:15 - test_login.py[line:41]- INFO - 启动app
+2021-04-01 15:58:35 - test_login.py[line:41]- INFO - 启动app
+2021-04-01 15:58:47 - test_login.py[line:41]- INFO - 启动app
+2021-04-01 16:00:51 - test_login.py[line:41]- INFO - 启动app
+2021-04-01 16:01:52 - test_login.py[line:41]- INFO - 启动app
+2021-04-01 16:02:16 - test_login.py[line:41]- INFO - 启动app
+2021-04-01 16:11:36 - test_login.py[line:41]- INFO - 启动app
+2021-04-01 16:20:40 - test_login.py[line:41]- INFO - 启动app
+2021-04-01 16:22:05 - test_login.py[line:41]- INFO - 启动app
+2021-04-01 16:27:49 - test_login.py[line:41]- INFO - 启动app
+2021-04-01 16:29:07 - test_login.py[line:41]- INFO - 启动app
+2021-04-01 17:39:25 - test_login.py[line:41]- INFO - 启动app
+2021-04-01 17:39:39 - test_login.py[line:57]- INFO - 开始测试test_login_1==================================
+2021-04-01 17:39:44 - BasePage.py[line:24]- ERROR - 未找到元素：com.longfor.app.turbo.beta.debug:id/tv_ok 请检查！
+2021-04-01 17:39:45 - BasePage.py[line:26]- ERROR - 截图路径：../screen_shot/20210401173944.png 
+2021-04-01 17:40:21 - test_login.py[line:41]- INFO - 启动app
+2021-04-01 17:40:33 - test_login.py[line:57]- INFO - 开始测试test_login_1==================================
+2021-04-01 17:40:39 - BasePage.py[line:24]- ERROR - 未找到元素：com.longfor.app.turbo.beta.debug:id/tv_ok 请检查！
+2021-04-01 17:40:39 - BasePage.py[line:26]- ERROR - 截图路径：../screen_shot/20210401174039.png 
+2021-04-01 17:43:45 - test_login.py[line:41]- INFO - 启动app
+2021-04-01 17:43:58 - test_login.py[line:57]- INFO - 开始测试test_login_1==================================
+2021-04-01 17:44:03 - BasePage.py[line:24]- ERROR - 未找到元素：com.longfor.app.turbo.beta.debug:id/mobile 请检查！
+2021-04-01 17:44:03 - BasePage.py[line:26]- ERROR - 截图路径：../screen_shot/20210401174403.png 
+2021-04-01 17:45:16 - test_login.py[line:41]- INFO - 启动app
+2021-04-01 17:45:29 - test_login.py[line:57]- INFO - 开始测试test_login_1==================================
+2021-04-01 17:47:09 - BasePage.py[line:24]- ERROR - 未找到元素：com.longfor.app.turbo.beta.debug:id/tv_ok 请检查！
+2021-04-01 17:47:09 - BasePage.py[line:26]- ERROR - 截图路径：../screen_shot/20210401174709.png 
+2021-04-01 17:47:40 - test_login.py[line:41]- INFO - 启动app
+2021-04-01 17:47:52 - test_login.py[line:57]- INFO - 开始测试test_login_1==================================
+2021-04-01 17:48:12 - test_login.py[line:41]- INFO - 启动app
+2021-04-01 17:48:24 - test_login.py[line:57]- INFO - 开始测试test_login_1==================================
+2021-04-01 17:48:55 - BasePage.py[line:24]- ERROR - 未找到元素：com.longfor.app.turbo.beta.debug:id/tv_ok 请检查！
+2021-04-01 17:48:55 - BasePage.py[line:26]- ERROR - 截图路径：../screen_shot/20210401174855.png 
+2021-04-01 17:49:20 - test_login.py[line:41]- INFO - 启动app
+2021-04-01 17:49:32 - test_login.py[line:57]- INFO - 开始测试test_login_1==================================
+2021-04-01 17:51:12 - BasePage.py[line:24]- ERROR - 未找到元素：com.longfor.app.turbo.beta.debug:id/tv_ok 请检查！
+2021-04-01 17:51:13 - BasePage.py[line:26]- ERROR - 截图路径：../screen_shot/20210401175112.png 
+2021-04-01 17:52:19 - test_login.py[line:41]- INFO - 启动app
+2021-04-01 17:52:31 - test_login.py[line:57]- INFO - 开始测试test_login_1==================================
+2021-04-01 17:54:11 - BasePage.py[line:24]- ERROR - 未找到元素：com.longfor.app.turbo.beta.debug:id/tv_ok 请检查！
+2021-04-01 17:54:11 - BasePage.py[line:26]- ERROR - 截图路径：../screen_shot/20210401175411.png 
+2021-04-01 18:18:50 - test_login.py[line:41]- INFO - 启动app
+2021-04-01 18:19:02 - test_login.py[line:57]- INFO - 开始测试test_login_1==================================
+2021-04-01 18:20:30 - test_login.py[line:41]- INFO - 启动app
+2021-04-01 18:20:43 - test_login.py[line:57]- INFO - 开始测试test_login_1==================================
+2021-04-01 18:22:54 - test_login.py[line:41]- INFO - 启动app
+2021-04-01 18:23:08 - test_login.py[line:57]- INFO - 开始测试test_login_1==================================
+2021-04-01 18:23:53 - BasePage.py[line:57]- ERROR - 未找到元素：未知的异常 请检查！
+2021-04-01 18:23:54 - BasePage.py[line:59]- ERROR - 截图路径：../screen_shot/20210401182353.png 
+2021-04-01 18:27:28 - test_login.py[line:41]- INFO - 启动app
+2021-04-01 18:27:40 - test_login.py[line:57]- INFO - 开始测试test_login_1==================================
+2021-04-01 18:30:02 - BasePage.py[line:57]- ERROR - 未找到元素：未知的异常 请检查！
+2021-04-01 18:30:02 - BasePage.py[line:59]- ERROR - 截图路径：../screen_shot/20210401183002.png 
