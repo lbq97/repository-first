@@ -2,10 +2,11 @@ from selenium.webdriver.common.by import By
 from pages.BasePage import BasePage
 
 class LoginPage(BasePage):
-    elm_userName = (By.ID,"com.longfor.app.turbo.beta:id/mobile")    #用户名输入框
-    elm_pwd = (By.ID,"com.longfor.app.turbo.beta:id/auth_code")    #密码输入框
-    elm_loginBtn = (By.ID,"com.longfor.app.turbo.beta:id/login_by_auth_code")    #登录按钮
-    elm_alert = (By.ID,"com.longfor.app.turbo.beta:id/tv_ok")
+    # 元素有待修改
+    elm_userName = (By.ID,"com.lf.app.turbo.beta:id/mobile")    #用户名输入框
+    elm_pwd = (By.ID,"com.lf.app.turbo.beta:id/auth_code")    #密码输入框
+    elm_loginBtn = (By.ID,"com.lf.app.turbo.beta:id/login_by_auth_code")    #登录按钮
+    elm_alert = (By.ID,"com.lf.app.turbo.beta:id/tv_ok")
 
     def inputUserName(self,username):
         self.driver.find_element(*self.elm_userName).send_keys(username)

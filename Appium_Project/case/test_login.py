@@ -34,9 +34,9 @@ class Test_login(object):
             # 'deviceName': '127.0.0.1:5554',  # 手机设备名称，通过adb devices查看
             'deviceName': '127.0.0.1:5555',  # 手机设备名称，通过adb devices查看
             'platformVersion': '6.0.1',  # android系统的版本号
-            'appPackage': 'com.longfor.app.turbo.beta',  # apk包名
-            # apk的launcherActivity
-            'appActivity': 'com.longfor.app.turbo.business.login.LoginByAuthCodeActivity',
+            'appPackage': 'com.lf.app.turbo.beta',  # apk包名，有待修改
+            # apk的launcherActivity，有待修改
+            'appActivity': 'com.ls.app.turbo.business.login.LoginByAuthCodeActivity',
         }
         self.logger.info('启动app')
         try:
