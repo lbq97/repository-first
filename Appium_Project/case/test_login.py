@@ -36,7 +36,7 @@ class Test_login(object):
             'platformVersion': '6.0.1',  # android系统的版本号
             'appPackage': 'com.lf.app.turbo.beta',  # apk包名，有待修改
             # apk的launcherActivity，有待修改
-            'appActivity': 'com.ls.app.turbo.business.login.LoginByAuthCodeActivity',
+            'appActivity': 'com.lf.app.turbo.business.login.LoginByAuthCodeActivity',
         }
         self.logger.info('启动app')
         try:
